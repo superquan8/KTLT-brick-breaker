@@ -9,7 +9,6 @@ if(keyboard_check(vk_left) or keyboard_check(vk_right))
 if(place_meeting(x,y,oBrick))
 {
 	move_bounce_solid(true);
-	instance_destroy(oBrick);
 }
 if(place_meeting(x,y,oPlatform) or place_meeting(x,y,oPlayer))
 {
