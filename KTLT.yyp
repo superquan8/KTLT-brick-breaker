@@ -13,6 +13,7 @@
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
     {"id":{"name":"sBall","path":"sprites/sBall/sBall.yy",},"order":1,},
     {"id":{"name":"oBrick","path":"objects/oBrick/oBrick.yy",},"order":4,},
+    {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},"order":5,},
     {"id":{"name":"sBrick","path":"sprites/sBrick/sBrick.yy",},"order":4,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
   ],
