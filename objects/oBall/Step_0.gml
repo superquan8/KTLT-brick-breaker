@@ -16,6 +16,6 @@ if(place_meeting(x,y,oPlatform) or place_meeting(x,y,oPlayer))
 }
 if(place_meeting(x,y,oLine))
 {
-	game_restart();
+	instance_destroy(id);
 	
 }

@@ -6,7 +6,7 @@
     "name": "sBall",
     "path": "sprites/sBall/sBall.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
