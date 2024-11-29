@@ -7,6 +7,7 @@
     {"id":{"name":"sLine","path":"sprites/sLine/sLine.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},"order":1,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"oLine","path":"objects/oLine/oLine.yy",},"order":3,},
     {"id":{"name":"MainScene","path":"rooms/MainScene/MainScene.yy",},"order":1,},
     {"id":{"name":"oBall","path":"objects/oBall/oBall.yy",},"order":2,},
