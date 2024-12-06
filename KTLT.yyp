@@ -5,16 +5,20 @@
   "resources": [
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":2,},
     {"id":{"name":"sLine","path":"sprites/sLine/sLine.yy",},"order":3,},
+    {"id":{"name":"lv2","path":"rooms/lv2/lv2.yy",},"order":2,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},"order":1,},
     {"id":{"name":"oLine","path":"objects/oLine/oLine.yy",},"order":3,},
-    {"id":{"name":"MainScene","path":"rooms/MainScene/MainScene.yy",},"order":1,},
+    {"id":{"name":"lv1","path":"rooms/lv1/lv1.yy",},"order":1,},
     {"id":{"name":"oBall","path":"objects/oBall/oBall.yy",},"order":2,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
     {"id":{"name":"sBall","path":"sprites/sBall/sBall.yy",},"order":1,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"oBrick","path":"objects/oBrick/oBrick.yy",},"order":4,},
+    {"id":{"name":"oMain","path":"objects/oMain/oMain.yy",},"order":5,},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},"order":5,},
     {"id":{"name":"sBrick","path":"sprites/sBrick/sBrick.yy",},"order":4,},
+    {"id":{"name":"sMain","path":"sprites/sMain/sMain.yy",},"order":6,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
   ],
   "Options": [
@@ -35,7 +39,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"MainScene","path":"rooms/MainScene/MainScene.yy",},},
+    {"roomId":{"name":"lv2","path":"rooms/lv2/lv2.yy",},},
+    {"roomId":{"name":"lv1","path":"rooms/lv1/lv1.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
