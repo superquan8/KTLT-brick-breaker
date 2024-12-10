@@ -1,16 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-<<<<<<<< Updated upstream:objects/oScore/oScore.yy
-  "name": "oScore",
-  "spriteId": null,
-========
-  "name": "oPlay",
+  "name": "Oinstruct",
   "spriteId": {
-    "name": "sPlay",
-    "path": "sprites/sPlay/sPlay.yy",
+    "name": "sInstruct",
+    "path": "sprites/sInstruct/sInstruct.yy",
   },
->>>>>>>> Stashed changes:objects/oPlay/oPlay.yy
   "solid": false,
   "visible": true,
   "managed": true,
@@ -30,7 +25,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
