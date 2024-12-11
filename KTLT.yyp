@@ -57,10 +57,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"Rinstruct","path":"rooms/Rinstruct/Rinstruct.yy",},},
     {"roomId":{"name":"levels","path":"rooms/levels/levels.yy",},},
     {"roomId":{"name":"lv1","path":"rooms/lv1/lv1.yy",},},
     {"roomId":{"name":"lv2","path":"rooms/lv2/lv2.yy",},},
-    {"roomId":{"name":"Rinstruct","path":"rooms/Rinstruct/Rinstruct.yy",},},
     {"roomId":{"name":"lv3","path":"rooms/lv3/lv3.yy",},},
   ],
   "Folders": [
