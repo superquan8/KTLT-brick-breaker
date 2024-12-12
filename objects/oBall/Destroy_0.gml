@@ -3,5 +3,3 @@ if(lives>=1){
 	create_ball.image_xscale=0.375;
 	create_ball.image_yscale=0.375;
 }
-
-
