@@ -4,7 +4,7 @@ if(lives>=1){
 	create_ball.image_yscale=0.375;
 }
 else{
-	highscore_add(" ",score);
-	score=0;
+	highscore_add(" ", score);
+    score = 0;
 	layer_sequence_create("Instances",672,512,game_over);
 }
