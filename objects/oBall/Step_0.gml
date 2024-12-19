@@ -16,6 +16,6 @@ if(place_meeting(x,y,oLine))
 }
 var _bricks_remaining = instance_number(oBrick)
 if(_bricks_remaining<=0){
-	
+	speed = 0;
 	layer_sequence_create("Instances",672,512,game_win);
 }
